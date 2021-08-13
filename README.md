@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susmithapuppala
-- 👀 I’m currently working on FullStack projects
-- 🌱 I’m currently learning Jenkins
+- 👀 I’m currently working on Backend projects
+- 🌱 I’m currently learning FR
 - 📫 How to reach me ... sushmi031999@gmail.com
 
 <!---
